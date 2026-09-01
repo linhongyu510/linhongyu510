@@ -8,8 +8,6 @@
 
 `Xiamen University · M.Sc. in Artificial Intelligence`
 
-`Python` · `Rust` · `TypeScript` · `PostgreSQL` · `Vector Databases`
-
 </div>
 
 <table>
