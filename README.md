@@ -15,6 +15,8 @@
 
 #### 💼 Experience & Research
 
+📄 [View Offers →](offer.md)
+
 - **SDIC Intelligence** · LLM Algorithms
 - **Xiamen University** · Artificial Intelligence, 2025–2028
 - **Focus** · AI Agents, Memory, RAG, and Evaluation
@@ -24,11 +26,10 @@
 
 #### 💻 Open Source Experience
 
-- **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw/pull/10508)** · Wasmtime sandbox security patch
-- **[OpenViking](https://github.com/volcengine/OpenViking/pull/4534)** · Structured SDK error preservation
-- **[Haystack](https://github.com/deepset-ai/haystack/pull/12508)** · Constant-score normalization fix
-- **[EvalScope](https://github.com/modelscope/evalscope/pull/1676)** · IFBench validation correction
-- **[Midscene](https://github.com/web-infra-dev/midscene/pull/2976)** · Screenshot pixel-integrity coverage
+🏅 [View Awards →](Awards.md)
+
+- **Open Source Contributor** — [IronClaw](https://github.com/nearai/ironclaw) · [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) · [Apache Flink Agents](https://github.com/apache/flink-agents)
+- **AI Infrastructure Contributor** — [Haystack](https://github.com/deepset-ai/haystack) · [OpenViking](https://github.com/volcengine/OpenViking) · [EvalScope](https://github.com/modelscope/evalscope) · [Midscene](https://github.com/web-infra-dev/midscene)
 
 </td>
 </tr>
