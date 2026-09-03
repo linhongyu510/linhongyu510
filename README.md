@@ -29,7 +29,7 @@
 🏅 [View Awards →](Awards.md)
 
 - **Open Source Contributor** — [IronClaw](https://github.com/nearai/ironclaw) · [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) · [Apache Flink Agents](https://github.com/apache/flink-agents)
-- **AI Infrastructure Contributor** — [Haystack](https://github.com/deepset-ai/haystack) · [OpenViking](https://github.com/volcengine/OpenViking) · [EvalScope](https://github.com/modelscope/evalscope) · [Midscene](https://github.com/web-infra-dev/midscene)
+- **AI Infrastructure Contributor** — [Qdrant Client](https://github.com/qdrant/qdrant-client) · [Haystack](https://github.com/deepset-ai/haystack) · [OpenViking](https://github.com/volcengine/OpenViking) · [EvalScope](https://github.com/modelscope/evalscope) · [Midscene](https://github.com/web-infra-dev/midscene)
 
 </td>
 </tr>
